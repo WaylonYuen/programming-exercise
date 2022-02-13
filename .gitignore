@@ -1,52 +1,33 @@
-# Prerequisites
-*.d
+# 忽略所有文件內容
+*
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+# 添加 git附加說明文件
+!.gitkeep
+!.gitignore
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# 添加指定程式擴展名文件
+!*.md
 
-# Precompiled Headers
-*.gch
-*.pch
+# C/Cpp
+!*.h
+!*.c
+!*.cpp
+!Makefile
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# C#
+!*.cs
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# java
+!*.java
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+# python
+!*.py
 
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
+# 添加指定doc擴展名文件
+!*.txt
+!*.png
+!*.pdf
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# 不忽略所有子目錄內容
+!*/
+!*/*
