@@ -61,6 +61,8 @@
 |No.   |題目編號      |題目名稱                                                                                       |題目來源       |困難度  |提示     |參考解題方向   |狀態      |
 |:-----|:------------|:---------------------------------------------------------------------------------------------|:-------------|:-----:|--------|-------------|:--------|
 |Day2  |每天聽道題 08  |[Big Bombs](Exercise/Timothy_Liu/Day2-TLDE08_BigBombs-Solved/)                                |Timothy Liu   |★     |        |             |Solved   |
+|Day3  |每天聽道題 04  |[Apple Peeler](Exercise/Timothy_Liu/Day3-TLDE04_ApplePeeler-Solved/)                          |Timothy Liu   |★     |        |             |Solved   |
+
 # Environment 環境
 
 ```
