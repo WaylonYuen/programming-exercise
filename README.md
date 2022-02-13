@@ -61,7 +61,7 @@
 |No.   |題目編號      |題目名稱                                                                                       |題目來源       |困難度  |提示     |參考解題方向   |狀態      |
 |:-----|:------------|:---------------------------------------------------------------------------------------------|:-------------|:-----:|--------|-------------|:--------|
 |Day1  |10222        |[Decode The Mad Man](Exercise/CPE/Day1-CPE10222_L1_DecodeTheMadMan-Solved/)                   |CPE           |★     |string  |brute force  |Solved   |
-
+|Day4  |118          |[Mutant Flatworld Explorers](Exercise/CPE/Day4-CPE118_L2_MutantFlatworldExplorers-Solved/)    |CPE           |★★   |        |simulation   |Solved   |
 # Environment 環境
 
 ```
