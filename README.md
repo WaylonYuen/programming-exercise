@@ -68,6 +68,7 @@
 |Day6  |11078        |[Open Credit System](Exercise/CPE/Day6-CPE11078_L1_OpenCreditSystem-Solved/)                  |CPE           |★     |        |             |Solved   |
 |Day7  |11677        |[Alarm Clock](Exercise/CPE/Day7-CPE11677_L1_AlarmClock-Solved/)                               |CPE           |★     |        |             |Solved   |
 |Day8  |11728        |[Alternate Task](Exercise/CPE/Day8-CPE11728_L2_AlternateTask-Bug/)                            |CPE           |★★   |factor  |math         |Bug      |
+|Day9  |12019        |[Dooms Day Algorithm](Exercise/CPE/Day9-CPE12019_L1_DoomsDayAlgorithm-Solved/)                |CPE           |★     |        |ad hoc       |Solved   |
 # Environment 環境
 
 ```
