@@ -70,6 +70,7 @@
 |Day8  |11728        |[Alternate Task](Exercise/CPE/Day8-CPE11728_L2_AlternateTask-Bug/)                            |CPE           |★★   |factor  |math         |Bug      |
 |Day9  |12019        |[Dooms Day Algorithm](Exercise/CPE/Day9-CPE12019_L1_DoomsDayAlgorithm-Solved/)                |CPE           |★     |        |ad hoc       |Solved   |
 |Day10 |12820        |[Cool Word](Exercise/CPE/Day10-CPE12820_L1_CoolWord-Bug/)                                     |CPE           |★     |        |             |Bug      |
+|Day11 |12869        |[Zeroes](Exercise/CPE/Day11-CPE12869_L1_Zeroes-Task/)                                         |CPE           |★     |        |             |Task     |
 # Environment 環境
 
 ```
