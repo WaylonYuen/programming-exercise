@@ -66,6 +66,7 @@
 |Day4  |118          |[Mutant Flatworld Explorers](Exercise/CPE/Day4-CPE118_L2_MutantFlatworldExplorers-Solved/)    |CPE           |★★   |        |simulation   |Solved   |
 |Day5  |1260         |[Sales](Exercise/CPE/Day5-CPE1260_L1_Sales-Solved/)                                           |CPE           |★     |        |             |Solved   |
 |Day6  |11078        |[Open Credit System](Exercise/CPE/Day6-CPE11078_L1_OpenCreditSystem-Solved/)                  |CPE           |★     |        |             |Solved   |
+|Day7  |11677        |[Alarm Clock](Exercise/CPE/Day7-CPE11677_L1_AlarmClock-Solved/)                               |CPE           |★     |        |             |Solved   |
 # Environment 環境
 
 ```
