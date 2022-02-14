@@ -1,0 +1,25 @@
+CPE-10222-DecodeTheMadMan
+
+>>>>>>>>>>>>>>>>>>>> Input >>>>>>>>>>>>>>>>>>>>
+4
+K[R DYT I[o
+J[[g .[Y,P,j
+KT''[ R[Y'G
+ertdFGcVb
+
+<<<<<<<<<<<<<<<<<<<< Output <<<<<<<<<<<<<<<<<<<<
+how are you
+good morning
+hello world
+qweasdzxc
+
+
+
+
+
+>>>>>>>>>>>>>>>>>>>> Input >>>>>>>>>>>>>>>>>>>>
+1
+K[R DYT I[o
+
+<<<<<<<<<<<<<<<<<<<< Output <<<<<<<<<<<<<<<<<<<<
+how are you
