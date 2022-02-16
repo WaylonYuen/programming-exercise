@@ -8,8 +8,8 @@
 
 |Last No.     |Category                              |Latest Title ID     |
 |:------------|:-------------------------------------|:-------------------|
-|No.0         |[Basic   ]()                          |[ZJa001]()          |
-|No.0         |[Contest ]()                          |[ZJa001]()          |
-|No.0         |[TOI     ]()                          |[ZJa001]()          |
-|No.0         |[UVa     ]()                          |[ZJa001]()          |
-|No.0         |[Original]()                          |[ZJa001]()          |
+|No.1         |[Basic   ](Basic/)                    |[ZJa001](Basic/Day13-ZJa001_Hello-Solved/) |
+|No.x         |[Contest ](Contest/)                  |[ZJa00x]()          |
+|No.x         |[TOI     ](TOI/)                      |[ZJa00x]()          |
+|No.x         |[UVa     ](UVa)                       |[ZJa00x]()          |
+|No.x         |[Original](Original)                  |[ZJa00x]()          |
