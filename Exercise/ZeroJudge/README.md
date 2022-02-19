@@ -8,7 +8,7 @@
 
 |Last No.     |Category                              |Latest Title ID     |
 |:------------|:-------------------------------------|:-------------------|
-|No.2         |[Basic   ](Basic/)                    |[ZJa002](Basic/Day13x2-ZJa002_SimpleAddition-Solved/) |
+|No.3         |[Basic   ](Basic/)                    |[ZJa009](Basic/Day13x3-ZJa009_Decoder-Solved/) |
 |No.x         |[Contest ](Contest/)                  |[ZJa00x]()          |
 |No.x         |[TOI     ](TOI/)                      |[ZJa00x]()          |
 |No.x         |[UVa     ](UVa)                       |[ZJa00x]()          |
