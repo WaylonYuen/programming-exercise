@@ -72,7 +72,9 @@
 |Day10    |12820        |[Cool Word](Exercise/CPE/Day10-CPE12820_L1_CoolWord-Bug/)                                     |CPE           |★     |           |Bug      |
 |Day11    |12869        |[Zeroes](Exercise/CPE/Day11-CPE12869_L1_Zeroes-Task/)                                         |CPE           |★     |           |Task     |
 |Day12    |12959        |[Strategy Game](Exercise/CPE/Day12-CPE12959_L1-StrategyGame-Bug/)                             |CPE           |★     |           |Bug      |
-
+|Day13    |ZJa001       |[Hello 哈囉](Exercise/ZeroJudge/Basic/Day13-ZJa001_Hello-Solved/)                              |Zero Judge    |★     |基礎輸出輸入 |Solved   |
+|Day13x2  |ZJa002       |[Simple Addition 簡易加法](Exercise/ZeroJudge/Basic/Day13x2-ZJa002_SimpleAddition-Solved/)      |Zero Judge    |★     |基礎輸出輸入 |Solved   |
+|Day13x3  |ZJa009       |[Decoder 解碼器](Exercise/ZeroJudge/Basic/Day13x3-ZJa009_Decoder-Solved/)                       |Zero Judge    |★     |字元處理    |Solved   |
 # Environment 環境
 
 ```
