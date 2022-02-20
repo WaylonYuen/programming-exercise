@@ -7,3 +7,4 @@
 
 |No.   |Date     |ID        |Title                      |Level     |Label              |Status   |
 |:-----|:--------|:---------|:--------------------------|:--------:|-------------------|:--------|
+|1     |Day14    |UVa10107  |[Median](Day14-UVa_Median-Solved/) |★ |排序         |Solved   |
