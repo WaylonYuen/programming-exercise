@@ -58,24 +58,25 @@
 
 # Contents 目錄
 
-|Date     |ID                  |Title                                                                                         |題目來源       |困難度  |Label     |狀態      |
-|:--------|:-------------------|:---------------------------------------------------------------------------------------------|:-------------|:-----:|----------|:--------|
-|Day1     |10222              |[Decode The Mad Man](Exercise/CPE/Day1-CPE10222_L1_DecodeTheMadMan-Solved/)                   |CPE           |★     |字元處理    |Solved   |
-|Day2     |每天聽道題 08        |[Big Bombs](Exercise/Timothy_Liu/Day2-TLDE08_BigBombs-Solved/)                                |Timothy Liu   |★     |          |Solved   |
-|Day3     |每天聽道題 04        |[Apple Peeler](Exercise/Timothy_Liu/Day3-TLDE04_ApplePeeler-Solved/)                          |Timothy Liu   |★     |          |Solved   |
-|Day4     |118                |[Mutant Flatworld Explorers](Exercise/CPE/Day4-CPE118_L2_MutantFlatworldExplorers-Solved/)    |CPE           |★★   |           |Solved   |
-|Day5     |1260               |[Sales](Exercise/CPE/Day5-CPE1260_L1_Sales-Solved/)                                           |CPE           |★     |           |Solved   |
-|Day6     |11078              |[Open Credit System](Exercise/CPE/Day6-CPE11078_L1_OpenCreditSystem-Solved/)                  |CPE           |★     |           |Solved   |
-|Day7     |11677              |[Alarm Clock](Exercise/CPE/Day7-CPE11677_L1_AlarmClock-Solved/)                               |CPE           |★     |           |Solved   |
-|Day8     |11728              |[Alternate Task](Exercise/CPE/Day8-CPE11728_L2_AlternateTask-Bug/)                            |CPE           |★★   |因式分解     |Bug      |
-|Day9     |12019              |[Dooms Day Algorithm](Exercise/CPE/Day9-CPE12019_L1_DoomsDayAlgorithm-Solved/)                |CPE           |★     |           |Solved   |
-|Day10    |12820              |[Cool Word](Exercise/CPE/Day10-CPE12820_L1_CoolWord-Bug/)                                     |CPE           |★     |           |Bug      |
-|Day11    |12869              |[Zeroes](Exercise/CPE/Day11-CPE12869_L1_Zeroes-Task/)                                         |CPE           |★     |           |Task     |
-|Day12    |12959              |[Strategy Game](Exercise/CPE/Day12-CPE12959_L1-StrategyGame-Bug/)                             |CPE           |★     |           |Bug      |
-|Day13    |ZJa001             |[Hello 哈囉](Exercise/ZeroJudge/Basic/Day13-ZJa001_Hello-Solved/)                              |Zero Judge    |★     |基礎輸出輸入 |Solved   |
-|Day13x2  |ZJa002             |[Simple Addition 簡易加法](Exercise/ZeroJudge/Basic/Day13x2-ZJa002_SimpleAddition-Solved/)      |Zero Judge    |★     |基礎輸出輸入 |Solved   |
-|Day13x3  |ZJa009             |[Decoder 解碼器](Exercise/ZeroJudge/Basic/Day13x3-ZJa009_Decoder-Solved/)                       |Zero Judge    |★     |字元處理    |Solved   |
-|Day14    |UVa10107 / ZJc010  |[Median 中位數](Exercise/UVa/Day14-UVa_Median-Solved/)                                          |UVa           |★     |排序       |Solved   |
+|Date     |ID                  |Title                                                                                                |題目來源       |困難度  |Label     |狀態      |
+|:--------|:-------------------|:----------------------------------------------------------------------------------------------------|:-------------|:-----:|----------|:--------|
+|Day1     |10222              |[Decode The Mad Man](Exercise/CPE/Day1-CPE10222_L1_DecodeTheMadMan-Solved/)                           |CPE           |★     |字元處理    |Solved   |
+|Day2     |每天聽道題 08        |[Big Bombs](Exercise/Timothy_Liu/Day2-TLDE08_BigBombs-Solved/)                                        |Timothy Liu   |★     |          |Solved   |
+|Day3     |每天聽道題 04        |[Apple Peeler](Exercise/Timothy_Liu/Day3-TLDE04_ApplePeeler-Solved/)                                  |Timothy Liu   |★     |          |Solved   |
+|Day4     |118                |[Mutant Flatworld Explorers](Exercise/CPE/Day4-CPE118_L2_MutantFlatworldExplorers-Solved/)            |CPE           |★★   |           |Solved   |
+|Day5     |1260               |[Sales](Exercise/CPE/Day5-CPE1260_L1_Sales-Solved/)                                                   |CPE           |★     |           |Solved   |
+|Day6     |11078              |[Open Credit System](Exercise/CPE/Day6-CPE11078_L1_OpenCreditSystem-Solved/)                          |CPE           |★     |           |Solved   |
+|Day7     |11677              |[Alarm Clock](Exercise/CPE/Day7-CPE11677_L1_AlarmClock-Solved/)                                       |CPE           |★     |           |Solved   |
+|Day8     |11728              |[Alternate Task](Exercise/CPE/Day8-CPE11728_L2_AlternateTask-Bug/)                                    |CPE           |★★   |因式分解     |Bug      |
+|Day9     |12019              |[Dooms Day Algorithm](Exercise/CPE/Day9-CPE12019_L1_DoomsDayAlgorithm-Solved/)                        |CPE           |★     |           |Solved   |
+|Day10    |12820              |[Cool Word](Exercise/CPE/Day10-CPE12820_L1_CoolWord-Bug/)                                             |CPE           |★     |           |Bug      |
+|Day11    |12869              |[Zeroes](Exercise/CPE/Day11-CPE12869_L1_Zeroes-Task/)                                                 |CPE           |★     |           |Task     |
+|Day12    |12959              |[Strategy Game](Exercise/CPE/Day12-CPE12959_L1-StrategyGame-Bug/)                                     |CPE           |★     |           |Bug      |
+|Day13    |ZJa001             |[Hello 哈囉](Exercise/ZeroJudge/Basic/Day13-ZJa001_Hello-Solved/)                                      |Zero Judge    |★     |基礎輸出輸入 |Solved   |
+|Day13x2  |ZJa002             |[Simple Addition 簡易加法](Exercise/ZeroJudge/Basic/Day13x2-ZJa002_SimpleAddition-Solved/)              |Zero Judge    |★     |基礎輸出輸入 |Solved   |
+|Day13x3  |ZJa009             |[Decoder 解碼器](Exercise/ZeroJudge/Basic/Day13x3-ZJa009_Decoder-Solved/)                               |Zero Judge    |★     |字元處理    |Solved   |
+|Day14    |UVa10107 / ZJc010  |[Median 中位數](Exercise/UVa/Day14-UVa_Median-Solved/)                                                  |UVa           |★     |排序       |Solved   |
+|Day15    |AJa059             |[Perfect sum of squares 完全平方和](Exercise/ZeroJudge/Basic/Day15-ZJa059_PerfectSumOfSquare-Solved/)   |Zero Judge     |★     |數學       |Solved   |
 # Environment 環境
 
 ```
