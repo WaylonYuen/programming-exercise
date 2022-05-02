@@ -8,7 +8,7 @@
 
 |New |Last No.     |Category                              |Latest Title ID     |
 |:--:|:------------|:-------------------------------------|:-------------------|
-|★   |No.3         |[Basic   ](Basic/)                    |[ZJa009](Basic/Day13x3-ZJa009_Decoder-Solved/) |
+|★   |No.4         |[Basic   ](Basic/)                    |[ZJa059](Basic/Day15-ZJa059_PerfectSumOfSquare-Solved/) |
 | -  |No.x         |[Contest ](Contest/)                  |[ZJa00x]()          |
 | -  |No.x         |[TOI     ](TOI/)                      |[ZJa00x]()          |
 |★★ |No.1         |[UVa     ](UVa/)                      |[ZJc010](../UVa//Day14-UVa_Median-Solved/) |
