@@ -8,7 +8,7 @@
 
 |New |Last No.     |Category                              |Latest Title ID     |
 |:--:|:------------|:-------------------------------------|:-------------------|
-|★   |No.4         |[Basic   ](Basic/)                    |[ZJa059](Basic/Day15-ZJa059_PerfectSumOfSquare-Solved/) |
+|★1.5|No.7         |[Basic   ](Basic/)                    |[ZJc420](Basic/Day16x3-ZJc420_BertTriangle3-Solved/) |
 | -  |No.x         |[Contest ](Contest/)                  |[ZJa00x]()          |
 | -  |No.x         |[TOI     ](TOI/)                      |[ZJa00x]()          |
 |★★ |No.1         |[UVa     ](UVa/)                      |[ZJc010](../UVa//Day14-UVa_Median-Solved/) |
