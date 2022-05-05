@@ -12,3 +12,4 @@
 |6     |Day16x2  |ZJc419    |[Bert's Triangle2 繪製三角形 2](Day16x2-ZJc419_BertTriangle2-Solved/) |★ |For迴圈 |Solved   |
 |7     |Day16x3  |ZJc420    |[Bert's Triangle3 繪製三角形 3](Day16x3-ZJc420_BertTriangle3-Solved/) |★1.5 |For迴圈 |Solved   |
 |8     |Day17    |ZJa020    |[ID Test 身分證檢驗](Day17-ZJa020_IDTest-Solved/) |★1 |流程控制 |Solved   |
+|9     |Day18    |ZJa038    |[Digital flip 數字翻轉](Day18-ZJa038_DigitalFlip-Solved/) |★1 |While迴圈 |Solved   |
