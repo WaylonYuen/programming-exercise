@@ -8,7 +8,7 @@
 
 |New |Last No.     |Category                              |Latest Title ID     |
 |:--:|:------------|:-------------------------------------|:-------------------|
-|★1 |No.8         |[Basic   ](Basic/)                    |[ZJa020](Basic/Day17-ZJa020_IDTest-Solved/) |
+|★1 |No.9         |[Basic   ](Basic/)                    |[ZJa038](Basic/Day18-ZJa038_DigitalFlip-Solved/) |
 | -  |No.x         |[Contest ](Contest/)                  |[ZJa00x]()          |
 | -  |No.x         |[TOI     ](TOI/)                      |[ZJa00x]()          |
 |★★ |No.1         |[UVa     ](UVa/)                      |[ZJc010](../UVa//Day14-UVa_Median-Solved/) |
