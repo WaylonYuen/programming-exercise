@@ -78,8 +78,9 @@
 |Day14    |UVa10107 / ZJc010  |[Median 中位數](Exercise/UVa/Day14-UVa_Median-Solved/)                                                  |UVa           |★     |排序       |Solved   |
 |Day15    |ZJa059             |[Perfect sum of squares 完全平方和](Exercise/ZeroJudge/Basic/Day15-ZJa059_PerfectSumOfSquare-Solved/)   |Zero Judge     |★     |數學       |Solved   |
 |Day16    |ZJc418             |[Bert's Triangle1 繪製三角形 1](Exercise/ZeroJudge/Basic/Day16-ZJc418_BertTriangle1-Solved/)            |Zero Judge     |★     |For迴圈    |Solved   |
-|Day16x2  |ZJc419             |[Bert's Triangle2 繪製三角形 2](Exercise/ZeroJudge/Basic/Day16x2-ZJc419_BertTriangle2-Solved/)            |Zero Judge   |★     |For迴圈    |Solved   |
-|Day16x3  |ZJc420             |[Bert's Triangle3 繪製三角形 3](Exercise/ZeroJudge/Basic/Day16x3-ZJc420_BertTriangle3-Solved/)            |Zero Judge   |★1.5  |For迴圈    |Solved   |
+|Day16x2  |ZJc419             |[Bert's Triangle2 繪製三角形 2](Exercise/ZeroJudge/Basic/Day16x2-ZJc419_BertTriangle2-Solved/)           |Zero Judge    |★     |For迴圈    |Solved   |
+|Day16x3  |ZJc420             |[Bert's Triangle3 繪製三角形 3](Exercise/ZeroJudge/Basic/Day16x3-ZJc420_BertTriangle3-Solved/)           |Zero Judge    |★1.5  |For迴圈    |Solved   |
+|Day17    |ZJa020             |[ID Test 身分證檢驗](Exercise/ZeroJudge/Basic/Day17-ZJa020_IDTest-Solved/)                               |Zero Judge    |★     |流程控制    |Solved   |
 # Environment 環境
 
 ```
