@@ -81,6 +81,7 @@
 |Day16x2  |ZJc419             |[Bert's Triangle2 繪製三角形 2](Exercise/ZeroJudge/Basic/Day16x2-ZJc419_BertTriangle2-Solved/)           |Zero Judge    |★     |For迴圈    |Solved   |
 |Day16x3  |ZJc420             |[Bert's Triangle3 繪製三角形 3](Exercise/ZeroJudge/Basic/Day16x3-ZJc420_BertTriangle3-Solved/)           |Zero Judge    |★1.5  |For迴圈    |Solved   |
 |Day17    |ZJa020             |[ID Test 身分證檢驗](Exercise/ZeroJudge/Basic/Day17-ZJa020_IDTest-Solved/)                               |Zero Judge    |★     |流程控制    |Solved   |
+|Day18    |ZJa038             |[Digital flip 數字翻轉](Exercise/ZeroJudge/Basic/Day18-ZJa038_DigitalFlip-Solved/)                       |Zero Judge    |★     |While迴圈  |Solved   |
 # Environment 環境
 
 ```
