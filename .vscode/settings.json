@@ -4,6 +4,9 @@
         "algorithm": "c",
         "bitset": "c",
         "chrono": "c",
-        "unordered_map": "c"
+        "unordered_map": "c",
+        "__mutex_base": "c",
+        "mutex": "c",
+        "memory": "c"
     }
 }
