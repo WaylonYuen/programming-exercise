@@ -82,6 +82,7 @@
 |Day16x3  |ZJc420             |[Bert's Triangle3 繪製三角形 3](Exercise/ZeroJudge/Basic/Day16x3-ZJc420_BertTriangle3-Solved/)           |Zero Judge    |★1.5  |For迴圈    |Solved   |
 |Day17    |ZJa020             |[ID Test 身分證檢驗](Exercise/ZeroJudge/Basic/Day17-ZJa020_IDTest-Solved/)                               |Zero Judge    |★     |流程控制    |Solved   |
 |Day18    |ZJa038             |[Digital flip 數字翻轉](Exercise/ZeroJudge/Basic/Day18-ZJa038_DigitalFlip-Solved/)                       |Zero Judge    |★     |While迴圈  |Solved   |
+|Day19    |ZJf063             |[The Strongest Chain 最強鏈條](Exercise/ZeroJudge/Basic/Day19-ZJf063_TheStrongestChain-Solved/)          |Zero Judge    |★     |比大小     |Solved   |
 # Environment 環境
 
 ```
