@@ -75,7 +75,7 @@
 |Day13    |ZJa001             |[Hello 哈囉](Exercise/ZeroJudge/Basic/Day13-ZJa001_Hello-Solved/)                                      |Zero Judge    |★     |基礎輸出輸入 |Solved   |
 |Day13x2  |ZJa002             |[Simple Addition 簡易加法](Exercise/ZeroJudge/Basic/Day13x2-ZJa002_SimpleAddition-Solved/)              |Zero Judge    |★     |基礎輸出輸入 |Solved   |
 |Day13x3  |ZJa009             |[Decoder 解碼器](Exercise/ZeroJudge/Basic/Day13x3-ZJa009_Decoder-Solved/)                               |Zero Judge    |★     |字元處理    |Solved   |
-|Day14    |UVa10107 / ZJc010  |[Median 中位數](Exercise/UVa/Day14-UVa_Median-Solved/)                                                  |UVa           |★     |排序       |Solved   |
+|Day14    |ZJc010 / UVa10107  |[Median 中位數](Exercise/ZeroJudge/UVa/Day14-ZJc010_Median-Solved/)                                     |Zero Judge    |★     |排序       |Solved   |
 |Day15    |ZJa059             |[Perfect sum of squares 完全平方和](Exercise/ZeroJudge/Basic/Day15-ZJa059_PerfectSumOfSquare-Solved/)   |Zero Judge     |★     |數學       |Solved   |
 |Day16    |ZJc418             |[Bert's Triangle1 繪製三角形 1](Exercise/ZeroJudge/Basic/Day16-ZJc418_BertTriangle1-Solved/)            |Zero Judge     |★     |For迴圈    |Solved   |
 |Day16x2  |ZJc419             |[Bert's Triangle2 繪製三角形 2](Exercise/ZeroJudge/Basic/Day16x2-ZJc419_BertTriangle2-Solved/)           |Zero Judge    |★     |For迴圈    |Solved   |
