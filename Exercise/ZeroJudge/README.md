@@ -6,10 +6,10 @@
 
 ## Contents 目錄
 
-|Last No.     |Category                              |Latest Title ID     |
-|:------------|:-------------------------------------|:-------------------|
-|No.0         |[Basic   ]()                          |[ZJa001]()          |
-|No.0         |[Contest ]()                          |[ZJa001]()          |
-|No.0         |[TOI     ]()                          |[ZJa001]()          |
-|No.0         |[UVa     ]()                          |[ZJa001]()          |
-|No.0         |[Original]()                          |[ZJa001]()          |
+|New |Last No.     |Category                              |Latest Title ID     |
+|:--:|:------------|:-------------------------------------|:-------------------|
+|★1 |No.10        |[Basic   ](Basic/)                    |[ZJf063](Basic/Day19-ZJf063_TheStrongestChain-Solved/) |
+| -  |No.x         |[Contest ](Contest/)                  |[ZJa00x]()          |
+| -  |No.x         |[TOI     ](TOI/)                      |[ZJa00x]()          |
+|★★ |No.1         |[UVa     ](UVa/)                      |[ZJc010](../UVa//Day14-UVa_Median-Solved/) |
+| -  |No.x         |[Original](Original)                  |[ZJa00x]()          |
