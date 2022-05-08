@@ -1,6 +1,6 @@
-// UVa10107 : ZJ c010 : What is the Median? 中位數
+// ZJc010、UVa10107 : What is the Median 中位數
 
-/* 問題分析:
+/* 題意解析:
     1、輸入的整數 N < 10000筆.
         >> while(scanf != EOF) 作為停止判斷
     2、插入排序法 對資料進行排序.
