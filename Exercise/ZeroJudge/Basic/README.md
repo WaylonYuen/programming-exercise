@@ -14,3 +14,4 @@
 |8     |Day17    |ZJa020    |[ID Test 身分證檢驗](Day17-ZJa020_IDTest-Solved/) |★ |流程控制 |Solved   |
 |9     |Day18    |ZJa038    |[Digital flip 數字翻轉](Day18-ZJa038_DigitalFlip-Solved/) |★ |While迴圈 |Solved   |
 |10    |Day19    |ZJf063    |[The Strongest Chain 最強鏈條](Day19-ZJf063_TheStrongestChain-Solved/) |★ |比大小 |Solved   |
+|11    |Day20    |ZJa022    |[Palindrome 迴文](Day20-ZJa022_Palindrome-Solved/) |★ |字串處理 |Solved   |
