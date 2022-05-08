@@ -8,7 +8,7 @@
 
 |New |Last No.     |Category                              |Latest Title ID     |
 |:--:|:------------|:-------------------------------------|:-------------------|
-|★  |No.11        |[Basic   ](Basic/)                    |[ZJa022](Basic/Day20-ZJa022_Palindrome-Solved/) |
+|★  |No.12        |[Basic   ](Basic/)                    |[ZJa022](Basic/Day20x2-ZJa040_ArmstrongNumber-Solved/) |
 | -  |No.x         |[Contest ](Contest/)                  |[ZJa00x]()          |
 | -  |No.x         |[TOI     ](TOI/)                      |[ZJa00x]()          |
 |★★ |No.1         |[UVa     ](UVa/)                      |[ZJc010](../UVa//Day14-UVa_Median-Solved/) |
