@@ -83,6 +83,8 @@
 |Day17    |ZJa020             |[ID Test 身分證檢驗](Exercise/ZeroJudge/Basic/Day17-ZJa020_IDTest-Solved/)                               |Zero Judge    |★     |流程控制    |Solved   |
 |Day18    |ZJa038             |[Digital flip 數字翻轉](Exercise/ZeroJudge/Basic/Day18-ZJa038_DigitalFlip-Solved/)                       |Zero Judge    |★     |While迴圈  |Solved   |
 |Day19    |ZJf063             |[The Strongest Chain 最強鏈條](Exercise/ZeroJudge/Basic/Day19-ZJf063_TheStrongestChain-Solved/)          |Zero Judge    |★     |比大小     |Solved   |
+|Day20    |ZJf022             |[Palindrome 迴文](Exercise/ZeroJudge/Basic/Day20-ZJa022_Palindrome-Solved/)                             |Zero Judge    |★     |字串處理    |Solved   |
+|Day20x2  |ZJf040             |[Armstrong Number 阿姆斯壯數](Exercise/ZeroJudge/Basic/Day20x2-ZJa040_ArmstrongNumber-Solved/)           |Zero Judge    |★     |數學       |Solved   |
 # Environment 環境
 
 ```
