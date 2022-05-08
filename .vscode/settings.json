@@ -9,6 +9,7 @@
         "__string": "c",
         "string": "c",
         "string_view": "c",
-        "iterator": "c"
+        "iterator": "c",
+        "string.h": "c"
     }
 }
