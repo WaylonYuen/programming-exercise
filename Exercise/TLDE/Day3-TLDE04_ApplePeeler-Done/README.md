@@ -81,6 +81,6 @@ Sample 2
 ## 目錄
 |Date  |題目編號   |版本  |檔案目錄                                                   |題目來源                          |困難度  |狀態     |
 |:-----|:---------|-----|:--------------------------------------------------------|:--------------------------------|:-----:|:--------|
-|Day3  |TLDE04    |基礎  |[TLDE04_MyCode-v1.0_Done](TLDE04_MyCode-v1.0_Done.c)     |Timothy Liu Daily Exercise 04    |★     |Task     |
+|Day3  |TLDE04    |基礎  |[TLDE04_MyCode-v1.0_Done](TLDE04_MyCode-v1.0_Done.c)     |Timothy Liu Daily Exercise 04    |★     |Done     |
 |DayX  |TLDE04-1  |進階  |[TLDE04_MyCode-v2.0_Task](TLDE04_MyCode-v2.0_Task.c)     |Waylon adapt from No.TLDE04      |★     |Task     |
 |DayX  |TLDE04-2  |高階  |[TLDE04_MyCode-v3.0_Task](TLDE04_MyCode-v3.0_Task.c)     |Waylon adapt from No.TLDE04-1    |★     |Task     |
